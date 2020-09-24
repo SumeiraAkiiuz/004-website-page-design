@@ -26,6 +26,7 @@ ul{
     height: 36px;
     background-color: #a9508b;
     color: #ffffff;
+    border: none;
 }
 header{
     background-color: #35424a;
@@ -49,7 +50,7 @@ header li{
     padding: 0 20px;
 }
 header .highlight,
-header .current{
+header .current a{
     color: #a9508b;
     font-weight: bold;
 }
